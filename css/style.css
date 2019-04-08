@@ -72,6 +72,10 @@ li.item a{
 	background-repeat: no-repeat;
 	background-position: 50%;
 }
+.hexagon:hover{
+	transform: rotate(-240deg);
+	transition: transform 1s ease-in;
+}
 .hex-1{
 	background-image: url('../assets/1.jpg');
 }
