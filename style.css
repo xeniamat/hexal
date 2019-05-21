@@ -1,0 +1,7 @@
+/*Test 1*/
+p:nth-child(3){
+background: black;
+color: red;
+width: 10%;
+padding: 5px;
+}
